@@ -1,0 +1,50 @@
+nav ul {
+	list-style-type: none;
+	padding:0;
+	padding-top: 2em; 
+}
+nav ul li {
+	display:inline;
+	margin-left:.5em;
+}
+
+nav ul li a{
+	color:#000;
+
+}
+
+nav ul li a:hover{
+	text-decoration: none;
+	color: #246262;
+}
+
+.container {
+	text-decoration: none;
+	color: black;
+}
+
+.container :hover{
+	text-decoration: none;
+	color: ##246262;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a :hover{
+	text-decoration: none;
+	color: #246262;
+}
+
+.container h3 {
+	margin-top: 40px;
+}
+
+.container p {
+	margin-top: 20px;
+}
+.hides {
+	display:none;
+}
